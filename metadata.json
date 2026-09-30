@@ -1,0 +1,6 @@
+{
+  "name": "AI Content Studio",
+  "description": "From Event Experience to Publish-Ready Social Media Content. Transform any event into authentic, platform-specific social posts, carousels, and reel scripts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
